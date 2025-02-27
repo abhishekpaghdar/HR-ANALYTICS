@@ -1,0 +1,1 @@
+Developed an interactive HR Analytics Dashboard in Power BI to track key workforce metrics such as employee demographics, attrition rates, performance trends, and hiring analytics. Implemented advanced DAX calculations, data modeling, and interactive visualizations to enhance HR decision-making and reporting.
